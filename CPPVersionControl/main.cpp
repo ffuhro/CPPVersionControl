@@ -9,7 +9,7 @@ void greet()
 void goodbye()
 {
 	// Print Goodbye
-	std::cout << "Goodbye\n\n";
+	std::cout << "Goodbye Mom\n\n";
 }
 
 int main() 
