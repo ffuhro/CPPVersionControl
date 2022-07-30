@@ -12,6 +12,8 @@ void goodbye()
 	std::cout << "Goodbye Mom\n\n";
 }
 
+
+// Main Function
 int main() 
 {
 	goodbye();
